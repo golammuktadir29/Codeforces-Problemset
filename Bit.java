@@ -10,7 +10,7 @@ public class Bit {
         //int X=0; 
         
 
-        System.out.println("Input the value ");
+       // System.out.println("Input the value ");
         Scanner myobj = new Scanner(System.in);
         int n = myobj.nextInt();
 		System.out.println();
